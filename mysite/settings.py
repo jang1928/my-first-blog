@@ -25,7 +25,7 @@ SECRET_KEY = 'x^cvwy$eitt1qnxnl(3408(oavhi^7))wm)h+9sg42h02)#9l^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kaisin.pythonanywhere.com']
 
 
 # Application definition
